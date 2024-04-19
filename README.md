@@ -1,7 +1,7 @@
 # EURUSD-Exchange_Rates Analysis
 There are two types of data visualization:
-Exploratory data visualization: we create graphs for ourselves to better understand and explore data.
-Explanatory data visualization: we create graphs for others to inform, make a point, or tell a story.
+  Exploratory data visualization: we create graphs for ourselves to better understand and explore data.
+  Explanatory data visualization: we create graphs for others to inform, make a point, or tell a story.
 Throughout the Project, we focused on explanatory data visualization.
 ## Graphs
 ### Exchange Rate Trends: 
